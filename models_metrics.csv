@@ -1,4 +1,4 @@
 Model,"Recall (stroke, training)","Recall (stroke, testing)"
 Logistic Regression,0.849061455386989,0.82
-Random Forest,1.0,0.16
-LightGBM,0.9850861403959887,0.18
+Random Forest,0.956544098740036,0.8
+LightGBM,0.9663152481357675,0.76
